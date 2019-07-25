@@ -11,15 +11,15 @@
 
 ## 预览
 
-在线预览： []()
+在线预览： [http://lovem.fun](http://lovem.fun)
 
-github开源地址：[https://github.com/hongweipeng/MenuTree_for_typecho][2]
+github开源地址：[https://github.com/L-cw/LovemMenuTree](https://github.com/L-cw/LovemMenuTree)
 
 ## 与我联系：
 
-作者：hongweipeng
-主页：
-或者通过 Emai: hongweichen8888@sina.com
+作者：进击的学霸
+主页：[http://lovem.fun](http://lovem.fun)
+或者通过 Emai: goodlcw1@163.com
 有任何问题也可评论留言
 
 ## 参考链接
