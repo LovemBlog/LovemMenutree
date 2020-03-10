@@ -11,7 +11,7 @@
 
 ## 预览
 
-在线预览： [http://lovem.fun](http://lovem.fun)
+在线预览： [http://blog.lovem.fun](http://lovem.fun)
 
 github开源地址：[https://github.com/L-cw/LovemMenuTree](https://github.com/L-cw/LovemMenuTree)
 
